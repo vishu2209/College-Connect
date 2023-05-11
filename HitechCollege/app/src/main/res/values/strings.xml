@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Hi-tech College</string>
+    <string name="bold" tools:ignore="ReferenceType">@font/latobold</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/latoregular</string>
+    <string name="light" tools:ignore="ReferenceType">@font/latolight</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+    <string name="about_college"> Established in 2004, the Hi-Tech Institute of Engineering and Technology is a private college affiliated with Dr. APJ Adbul Kalam Technical University, Lucknow (AKTU). Being established under the aegis of Anand Educational Society, the college is located in Ghaziabad, on the Delhi-Hapur Bypass. It is approved by the AICTE and the NCTE.\n    Hi-Tech Institute of Engineering and Technology, Ghaziabad offers 23 courses across different fields such as Engineering, Business, Management and Education. The college offers a number of facilities to the students, amongst which are well equipped classrooms, state- of art computer, electronics and mechanical labs along with other amenities such as cafe, gymnasium, movie club, sports club, etc. The college also has a well-equipped library with more than 36,000 books, national and international online journals and case studies. Separate hostel facility is available for both boys and girls- junior and senior students along with all necessary amenities.</string>
+
+</resources>
